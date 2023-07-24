@@ -1,2 +1,2 @@
 # DiceGame
-Hello! This is a short dice game I've constructed. 
+Hello! I've recently started to learn JavaScript and this is a short Dice game that I coded out.
